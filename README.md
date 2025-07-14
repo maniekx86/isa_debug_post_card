@@ -1,7 +1,9 @@
 # ISA debug post card
-ISA debug post card with additional features like data/address bus analyzer, frequency measure and multi I/O POST port selection. Uses a XC95144XL CPLD as main IC. Manual, dedicated project page, VHDL source & compiled output will be available soon.
+ISA debug post card with additional features like data/address bus analyzer, frequency measure and multi I/O POST port selection. Uses a XC95144XL CPLD as main IC. Dedicated project page with manual and assembly instructions will be available soon.
 
 It is also designed to have a 45-degree bevel at the connector. When ordering, enable edge connector and a 45-degree bevel. Ready gerbers are available in output folder
+
+CPLD VHDL source code and compiled firmware for the CPLD are available here: https://github.com/maniekx86/isa_debug_post_card_cpld_source
 
 Based on https://github.com/JayesonLS/ISA-Cards IsaTemplate
 
